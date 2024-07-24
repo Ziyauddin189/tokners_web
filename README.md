@@ -6,13 +6,19 @@ Figma --> https://www.figma.com/file/WmNvoKw2BSExCPcnLI1P5N/AeroVision---Persona
 
 ## Desktop 💻
 <p align="left">
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/3d68fa2d-2e3f-487a-966e-d5a537759c2f" height="250" width="500" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/63dcdba3-1d36-46ce-a6fc-4e20dd724065" height="250" width="500" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/177f67ca-a663-4c20-be93-e63f690e9144" height="250" width="500" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/23c3423b-ee79-4cfd-a8f7-262e82174fdb" height="250" width="500" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/01e1ba00-57a3-4c58-844d-9527e8097887" height="250" width="500" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/87b9d6d8-c2c6-42e1-a2c5-3fc77eb12228" height="250" width="500" />
-  <img src="https://github.com/Ziyauddin189/flutter_portfolio_web/assets/112611879/f8be3be0-d6f7-4f60-a5d4-4cb1d109c3b6" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/686d8441-4a30-45b5-91f1-c1e372c5c694" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/0f12c71a-a5cb-45bf-8f95-13a6f80f8e95" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/d5388e30-e220-4991-84ea-95379efaaabb" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/6a0c3df9-4ae4-48fe-bacd-4223084c426f" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/0929ac2c-8853-424a-ba94-56879449b7d6" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/be9bcfcb-466a-410f-89d5-53daf0ad6bfc" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/a0944795-8a07-4ed2-a617-ae9259e4a901" height="250" width="500" />
+
+  <img src="https://github.com/user-attachments/assets/f5327e91-e83b-4f5e-86aa-118e727323b5" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/114b02e7-0944-4e4b-b928-a23508acda7d" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/c68b0808-3ab9-4107-9c81-e8bb66162ab8" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/dd9c4b5f-efc0-447b-8fd5-7a61430b04fd" height="250" width="500" />
+  <img src="https://github.com/user-attachments/assets/62cc989b-6563-4eda-b846-7a27633d5f24" height="250" width="500" />
 </p>
 
 ## Mobile 📲
