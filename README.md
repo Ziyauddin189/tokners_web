@@ -36,10 +36,12 @@ Figma --> https://www.figma.com/file/WmNvoKw2BSExCPcnLI1P5N/AeroVision---Persona
 
 
 ## Features
-Responsive UI across
-- Desktop
-- Android
-- ios
+
+- Clean Architecture + BLoC state management
+- Responsive UI across
+  - Desktop
+  - Android
+  - ios
 
 
 ## Running the App
