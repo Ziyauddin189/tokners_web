@@ -1,8 +1,8 @@
 # Personal Portfolio👨‍💻
 
-Personal Portfolio app using Flutter version 3.13.0
+Tokners [Website + Mobile] using Flutter version 3.13.0
 
-Figma --> https://www.figma.com/file/WmNvoKw2BSExCPcnLI1P5N/AeroVision---Personal-Portfolio-Landing-Page-(FREE-DOWLOAD)-(Community)?type=design&node-id=0-1&mode=design&t=mKv3axvQJ57Hn2H9-0
+Figma --> https://www.figma.com/design/1d9DKOVm6LJawbzqI1udRZ/Website-Design-%2B-Mobile-(Community)?node-id=34-343&t=7ebUJv29XDfyuPOX-0
 
 ## Desktop 💻
 <p align="left">
